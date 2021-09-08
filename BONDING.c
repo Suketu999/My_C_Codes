@@ -69,4 +69,5 @@ while (a!=b)
         b=b-a;
     }
 return a;
+return;
 }

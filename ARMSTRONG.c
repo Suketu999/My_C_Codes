@@ -15,4 +15,5 @@ if (n==c)
     printf("The number is an Angstorm number.");
 else
     printf("The number is not an Angstorm number.");
+return
 }
